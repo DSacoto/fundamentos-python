@@ -1,4 +1,4 @@
-valor=0
+valor=15
 if valor > 1:
     print("Valor é maior que um")
     print("valor igual a",valor)
